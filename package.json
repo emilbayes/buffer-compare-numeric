@@ -1,0 +1,28 @@
+{
+  "name": "buffer-compare-numeric",
+  "version": "1.0.0",
+  "description": "Compare Buffers numerically",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/emilbayes/buffer-compare-numeric.git"
+  },
+  "keywords": [
+    "buffer",
+    "compare",
+    "numeric",
+    "numerically"
+  ],
+  "author": "Emil Bay <github@tixz.dk>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilbayes/buffer-compare-numeric/issues"
+  },
+  "homepage": "https://github.com/emilbayes/buffer-compare-numeric#readme",
+  "devDependencies": {
+    "tape": "^4.6.0"
+  }
+}
