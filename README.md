@@ -1,6 +1,6 @@
 # `buffer-compare-numeric`
 
-> Compare Buffers numerically
+> Compare (Big Endian) Buffers numerically
 
 ## Install
 
@@ -10,7 +10,7 @@ npm install buffer-compare-numeric
 
 ## Usage
 
-Will compare `Buffer`s numerically, ignoring leading zeros.
+Will compare (Big Endian) `Buffer`s numerically, ignoring leading zeros.
 
 ```js
 var cmp = require('buffer-compare-numeric')

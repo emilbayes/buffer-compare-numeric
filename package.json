@@ -1,7 +1,7 @@
 {
   "name": "buffer-compare-numeric",
   "version": "1.0.0",
-  "description": "Compare Buffers numerically",
+  "description": "Compare (Big Endian) Buffers numerically",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
